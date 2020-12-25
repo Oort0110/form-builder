@@ -964,9 +964,9 @@
     moment "^2.23.0"
 
 "@data-driven-forms/pf4-component-mapper@^2.10.1":
-  version "2.10.1"
-  resolved "https://registry.yarnpkg.com/@data-driven-forms/pf4-component-mapper/-/pf4-component-mapper-2.10.1.tgz#378148407e2f3acfb360fa587570d946b3e3c4c7"
-  integrity sha512-3ItPbG8cBllm1SrhgqfdmXPqAtpOmtbeZzJJGgx1rua6wjDjA16EQ2riwjHkcP2JeDbnFzFAw+ZYH1GmrF4i9A==
+  version "2.16.0"
+  resolved "https://registry.yarnpkg.com/@data-driven-forms/pf4-component-mapper/-/pf4-component-mapper-2.16.0.tgz#b9ed6bb81f2b956e9398387bc25f5ac139475478"
+  integrity sha512-28GZFeOEV5HFUcEJJrEEz6qh2UOsM5AIJDZGLwTq3r43jNg3h1nOUMc8PRqbmhCCkg2G2tmLnBzTBEUENz/fMg==
   dependencies:
     downshift "^5.4.3"
     prop-types "^15.7.2"
